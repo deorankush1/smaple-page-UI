@@ -4,7 +4,7 @@
 
 html{
   padding: 2%;
-  overflow-y: hidden;
+  overflow: auto;
 
 
 }
